@@ -201,7 +201,7 @@ This project is part of a final year academic project.
 
 ## 👤 Authors
 
-- [Your Name/Team]
+- SAIRAJ BANGAR
 
 ## 🙏 Acknowledgments
 
